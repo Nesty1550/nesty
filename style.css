@@ -293,8 +293,12 @@ img{
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
+        color: green;
+        background: green;
     }
     .toggle.active{
+        color: green;
+        background: green;
         background: url('close.PNG');
         background-position: center;
         background-repeat: no-repeat;
