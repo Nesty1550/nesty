@@ -291,13 +291,13 @@ img{
         background: url('menu.PNG');
         background-position: center;
         background-repeat: no-repeat;
-        background-size: 30px;
+        background-size: 35px;
         cursor: pointer;
-        color: green;
+        color: white;
         background: green;
     }
     .toggle.active{
-        color: green;
+        color:white;
         background: green;
         background: url('close.PNG');
         background-position: center;
