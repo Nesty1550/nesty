@@ -297,8 +297,8 @@ img{
         background: black;
     }
     .toggle.active{
-        color:white;
-        background: black;
+        color:black;
+        background:white;
         background: url('close.PNG');
         background-position: center;
         background-repeat: no-repeat;
